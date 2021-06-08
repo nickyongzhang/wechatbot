@@ -3,7 +3,7 @@ chardet==3.0.4
 future==0.16.0
 idna==2.6
 itchat==1.2.32
-Pillow==5.0.0
+Pillow==8.2.0
 pypng==0.0.18
 PyQRCode==1.2.1
 requests==2.18.4
